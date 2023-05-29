@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Pings IP address argument. Usage: ./script {IP_ADDRESS}
 
 if [[ -z "$1" ]]; then
